@@ -1,2 +1,2 @@
 # portifolio
-Portifólio de Desenvolvdor by Matheus Moreira
+Portifólio de Desenvolvedor by Matheus Moreira
